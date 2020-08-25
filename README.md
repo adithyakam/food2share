@@ -1,3 +1,5 @@
+this is my persomal project .Thisprojet intends in sharing of excess food to the needy ones
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
